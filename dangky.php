@@ -10,7 +10,7 @@
         </style>
     </head>
     <body>
-        <h1>Trang đăng ký thành viên</h1>
+        <h1>Trang đăng ký thành viên abc</h1>
         <form action="xuly.php" method="POST" >
             <table cellpadding="0" cellspacing="0" border="0">
                 <tr>
