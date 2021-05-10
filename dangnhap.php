@@ -55,7 +55,7 @@ if (isset($_POST['dangnhap'])) {
 <body>
     <div class="login-form">
         <form action='dangnhap.php?do=login' method='POST'>
-            <h1>Đăng nhập vào website</h1>
+            <h1>Đăng nhập vào website Quản lý sinh viên</h1>
             <div class="input-box">
                 <i ></i>
                 <input name="txtUsername" type="text" placeholder="Nhập username">
